@@ -1,0 +1,3 @@
+from HelpfulPythonFunctions.max_element import max_element
+from HelpfulPythonFunctions.soft_equals import soft_equals
+from HelpfulPythonFunctions.max_frequency import max_frequency
